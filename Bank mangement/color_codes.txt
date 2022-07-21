@@ -1,0 +1,46 @@
+CODE	COLOR
+[0;31m	Red
+[1;31m	Bold Red
+[0;32m	Green
+[1;32m	Bold Green
+[0;33m	Yellow
+[01;33m	Bold Yellow
+[0;34m	Blue
+[1;34m	Bold Blue
+[0;35m	Magenta
+[1;35m	Bold Magenta
+[0;36m	Cyan
+[1;36m	Bold Cyan
+[0m	    Reset
+\033[22;30m - black
+
+\033[22;31m - red
+
+\033[22;32m - green
+
+\033[22;33m - brown
+
+\033[22;34m - blue
+
+\033[22;35m - magenta
+
+\033[22;36m - cyan
+
+\033[22;37m - gray
+
+\033[01;30m - dark gray
+
+\033[01;31m - light red
+
+\033[01;32m - light green
+
+\033[01;33m - yellow
+
+\033[01;34m - light blue
+
+\033[01;35m - light magenta
+
+\033[01;36m - light cyan
+
+\033[01;37m - white
+
